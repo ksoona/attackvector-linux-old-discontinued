@@ -60,10 +60,12 @@ Download
 ========
 [attackvector-linux_0.0.1alpha_64bit.iso](http://attackvector.org/attackvector-linux_0.0.1alpha_64bit.iso)
 
---------------
+-------------
 ###### social
 > IRC **#attackvector** on Freenode  
 > [![Tweet This](http://ampedstatus.org/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter-micro4.png)](https://twitter.com/intent/tweet?text=%40attackvector)[![Facebook](http://daviddegraw.org/wp-content/plugins/tweet-this/icons/tt-facebook-micro4.png)](http://facebook.com/AttackVector-Linux)[![Linkedin](http://www.hollybrady.com/bradyholly/wp-content/plugins/tweet-this/icons/en/linkedin/tt-linkedin-micro4.png)](http://linkedin.com/in/AttackVector)  
+> ![Web Mockup](https://sourceforge.net/p/attackvector/screenshot/attackvector_header.jpg)  
+> (Web Mockup)
 
 ##### Docs
 * [Live Build Manual](http://live.debian.net/manual/3.x/html/live-manual/index.en.html)
@@ -77,7 +79,7 @@ Download
 
 Project Status
 ==============
-
+![UML Diagram](https://sourceforge.net/p/attackvector/screenshot/attackvector-uml-diagram2.png)
 It seems our best structural approach is customizing the [Kali Live Build scripts](http://docs.kali.org/live-build/live-build-a-custom-kali-iso).  
 Eventually this Kali derivative should meet the [TAILS design specifications](https://tails.boum.org/contribute/design/#index13h2).
 
