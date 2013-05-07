@@ -99,8 +99,8 @@ http://attackvector.org/attackvector-linux_0.1alpha_64bit.iso
                    .                        *
    avl   *               - ) -       *      
                 .               .
-  -=[ BitBucket Git Repository ]=-
-https://bitbucket.org/attackvector/attackvector-linux
+  -=[ GitHub Repository ]=-
+https://github.com/ksoona/attackvector
          _..._
        .'     '.
       /`\     /`\    |\
