@@ -29,6 +29,7 @@ Build Instructions
 
     ~~~~~~
     apt-get install git live-build cdebootstrap kali-archive-keyring
+    cd /tmp
     git clone git://git.kali.org/live-build-config.git
     apt-get remove libdebian-installer4
     apt-get install libdebian-installer4
@@ -37,7 +38,9 @@ Build Instructions
 2. Copy down git repo [ distro / kali / config ]
 
     ~~~~~~
-    git clone git://
+    git clone git://github.com/ksoona/attackvector.git
+    cp attackvector/distro/kali/config /tmp/live-build-config/config
+    cd /tmp/live-build-config
     ~~~~~~
 
 3. Live build:
