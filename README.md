@@ -1,9 +1,9 @@
--------------------------------------------------------------------
 [AttackVector Linux](http://attackvector.org): the dragon has tails
 ===================================================================
 ![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%2012.16.24%20PM.png)  
 **AttackVector Linux** is a new distribution for anonymized penetration and security.  
-It is based on [TAILS](https://tails.boum.org) and [Kali](http://kali.org), which are both based on [Debian](http://debian.org).
+It is based on [Kali](http://kali.org) and [TAILS](https://tails.boum.org), which are both based on [Debian](http://debian.org).
+-------------------------------------------------------------------
 
 Design Philosophy
 =================
