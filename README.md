@@ -1,6 +1,6 @@
 [AttackVector Linux](http://attackvector.org): the dragon has tails
 ===================================================================
-![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%2012.16.24%20PM.png)  
+![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.16.12%20PM.png)  
 **AttackVector Linux** is a new distribution for anonymized penetration and security.  
 It is based on [Kali](http://kali.org) and [TAILS](https://tails.boum.org), which are both based on [Debian](http://debian.org).
 
@@ -102,7 +102,7 @@ Eventually this Kali derivative should meet the [TAILS design specifications](ht
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 * Debian repositories
 
-![Tor Connected](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%2012.01.50%20PM.png)
+![Tor Connected](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.14.18%20PM.png)
 --------------
 ###### license
 > [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)[![Open Source](http://www.ipol.im/static/badges/open-source.png)](http://www.gnu.org/licenses/gpl.html)[![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)](http://www.catb.org/hacker-emblem/)  
