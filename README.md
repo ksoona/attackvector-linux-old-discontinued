@@ -20,6 +20,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 ##### Features
 * The anonymity of [TAILS](https://tails.boum.org)
 * The privacy of [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
+* The password recovery of [hashkill](http://www.gat3way.eu/hashkill)
 * The cryptography of [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/)
 * The penetration tools of [Kali](http://kali.org)
 
