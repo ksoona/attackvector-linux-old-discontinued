@@ -2,7 +2,7 @@
 # base git subtree script
 # for AttackVector-Linux
 # run as cron.daily build
-# (c) ~THE PLANNER~ GPL v3
+# (c) Kenneth Soona GPL v3
 
 # prerequisites: git >= 1.8 (for git subtree)
 

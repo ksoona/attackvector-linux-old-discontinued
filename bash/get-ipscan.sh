@@ -8,5 +8,5 @@ else
     URL="http://sourceforge.net/projects/ipscan/files/ipscan3-binary/3.2/ipscan_3.2_i386.deb"
 fi
 FILE="ipscan.deb"
-wget -N "$URL" -O $FILE && sudo dpkg -i $FILE
-rm $FILE
+wget -N "$URL" -O $FILE && sudo dpkg -i $FILE -y
+#rm $FILE
