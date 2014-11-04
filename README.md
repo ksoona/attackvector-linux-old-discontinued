@@ -59,8 +59,8 @@ Build Instructions
 
 Download
 ========
-MD5 (attackvector-linux-0.0.1alpha-64bit.iso) = 359e2147206a5275ec46a7c997d66f8c  
-mirror [BitBucket](https://bitbucket.org/attackvector/attackvector-linux/downloads)
+MD5 (attack_vector_alpha_0.1.1b.iso) = 99243d5f4132116e2e9606d6b0c98e6f  
+mirror [Turing](http://turing.slu.edu/~hastint/attack_vector_alpha_0.1.1b.iso)
 
 -------------
 ###### social
