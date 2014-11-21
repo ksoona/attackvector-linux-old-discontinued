@@ -11,7 +11,7 @@ Design Philosophy
 **Yin** and _Yang_
 
 While Kali requires a modified kernel for network drivers to use injection and so forth,  
-TAILS is designed from the bottom up for encryption, and anonymity. _Nmap can't UDP via Tor._  
+TAILS is designed from the bottom up for encryption, and anonymity. [attackVector.org](http://turing.slu.edu/~hastint/AttackVector.htm).
 **The intention of AttackVector Linux is to provide the capability to anonymize attacks  
 _while warning the user when he or she takes actions that may compromize anonymity._**  
 The two projects have different design philosophies that can directly conflict with one another.  
@@ -107,4 +107,4 @@ Eventually this Kali derivative should meet the [TAILS design specifications](ht
 --------------
 ###### license
 > [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)[![Open Source](http://www.ipol.im/static/badges/open-source.png)](http://www.gnu.org/licenses/gpl.html)[![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)](http://www.catb.org/hacker-emblem/)  
-> Text under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Code under [GNU Public License](http://www.gnu.org/licenses/gpl.html). © Kenneth Soona 2013
+> Text under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Code under [GNU Public License](http://www.gnu.org/licenses/gpl.html). © Kenneth Soona 1988
