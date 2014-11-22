@@ -1,4 +1,4 @@
-[AttackVector Linux](http://attackvector.org): the dragon has tails
+[AttackVectorLinux](http://turing.slu.edu/~hastint/AttackVector.htm): the dragon has tails
 ===================================================================
 ![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.16.12%20PM.png)  
 **AttackVector Linux** is a new distribution for anonymized penetration and security.  
