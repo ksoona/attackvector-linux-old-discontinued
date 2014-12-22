@@ -2,9 +2,12 @@
 ===================================================================
 ![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.16.12%20PM.png)  
 **AttackVector Linux** is a new distribution for anonymized penetration and security.  
-It is based on [Kali](http://kali.org) and [TAILS](https://tails.boum.org), which are both based on [Debian](http://debian.org).
+It is based on [Parrot](http://parrotsec.org), [Kali](http://kali.org) and [TAILS](https://tails.boum.org), which are all based on [Debian](http://debian.org).
 
 -------------------------------------------------------------------
+
+[Download Attack Vector Linx Now](http://bit.do/avlinuxdl)
+![QR Code](http://chart.apis.google.com/chart?cht=qr&chs=256x256&choe=UTF-8&chld=H%7C0&chl=http://bit.do/avlinuxdl)
 
 Design Philosophy
 =================
