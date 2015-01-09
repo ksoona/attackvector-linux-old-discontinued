@@ -60,7 +60,12 @@ Build Instructions
 Download
 ========
 MD5 (attack_vector_alpha_0.1.1b.iso) = 99243d5f4132116e2e9606d6b0c98e6f  
-mirror [Turing](http://turing.slu.edu/~hastint/attack_vector_alpha_0.1.1b.iso)
+mirror [GDrive](http://bit.do/avlinuxdl)
+
+Release_Notes.txt
+=================
+64-bit only  
+LILO may work better than GRUB on some systems.
 
 -------------
 ###### social
