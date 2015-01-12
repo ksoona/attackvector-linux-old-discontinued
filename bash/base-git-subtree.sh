@@ -27,7 +27,14 @@ else
 	cd base
 fi
 
-# clone TAILS git repo (the easy part)
+# clone QEMU git repo
+if [ ! -e "qemu" ]
+then
+	git subtree add --prefix=qemu git://git.qemu-project.org/qemu.git
+else
+	sudo apt-get install links && links https://www.virtualbox.org/wiki/Downloads
+
+# clone TAILS git repo
 if [ ! -e "tails" ]
 then
 	git subtree add --prefix=tails git://git.immerda.ch/amnesia.git HEAD
