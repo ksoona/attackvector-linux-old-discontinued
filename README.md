@@ -1,4 +1,4 @@
-[AttackVector Linux](http://attackvector.org): the dragon has tails
+[AttackVectorLinux](http://turing.slu.edu/~hastint/AttackVector.htm): the dragon has tails
 ===================================================================
 ![screenshot](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.16.12%20PM.png)  
 **AttackVector Linux** is a new distribution for anonymized penetration and security.  
@@ -63,7 +63,12 @@ Build Instructions
 Download
 ========
 MD5 (attack_vector_alpha_0.1.1b.iso) = 99243d5f4132116e2e9606d6b0c98e6f  
-mirror [Turing](http://turing.slu.edu/~hastint/attack_vector_alpha_0.1.1b.iso)
+mirror [GDrive](http://bit.do/avlinuxdl) [Dropbox](https://www.dropbox.com/s/te4o828xu91ohuo/attack_vector_alpha_0.1.1b.iso?dl=0)  
+
+Release_Notes.txt
+=================
+64-bit only  
+LILO may work better than GRUB on some systems.
 
 -------------
 ###### social
@@ -96,18 +101,16 @@ Eventually this Kali derivative should meet the [TAILS design specifications](ht
 * Configure build system to generate & test ISOs
 
 ##### Tasks
-* [Help port TAILS to Wheezy](https://tails.boum.org/todo/Wheezy/)
 * Evaluate features of each distro & unify them into a single kernel
 * Provide two layers of functionality: dedicated install and [live distro](http://www.irongeek.com/i.php?page=videos/portable-boot-devices-usb-cd-dvd)
 * Add warning messages for anonymity risks
-* Full Disk Encryption (FDE) w/ [LUKS](https://code.google.com/p/cryptsetup/)
 * Host on [AttackVector.org](http://attackvector.org)
 * Provide documentation
 * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
-* Debian repositories
+* Debian repositories via git-pkg
 
 ![Tor Connected](https://sourceforge.net/p/attackvector/screenshot/Screen%20Shot%202013-05-07%20at%206.14.18%20PM.png)
 --------------
 ###### license
 > [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)[![Open Source](http://www.ipol.im/static/badges/open-source.png)](http://www.gnu.org/licenses/gpl.html)[![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)](http://www.catb.org/hacker-emblem/)  
-> Text under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Code under [GNU Public License](http://www.gnu.org/licenses/gpl.html). © Kenneth Soona 1988
+> Text under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Code under [GNU Public License](http://www.gnu.org/licenses/gpl.html). © Kenneth Jay Soona 1988
